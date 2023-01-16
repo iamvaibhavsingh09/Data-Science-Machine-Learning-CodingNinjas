@@ -23,3 +23,4 @@ Phase 3 of Ninja Data Scientist Career Track.
 20. Web Scraping - Selenium
 21. Web Scraping - Advanced Selenium
 22. Statistics
+23. Descriptive Statistics

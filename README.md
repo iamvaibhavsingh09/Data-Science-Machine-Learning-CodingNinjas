@@ -19,3 +19,7 @@ Phase 3 of Ninja Data Scientist Career Track.
 16. Indexing And SQLite
 17. Application Programming Interfaces(APIs) - I 
 18. Application Programming Interfaces(APIs) - II
+19. Web Scraping - BeautifulSoup
+20. Web Scraping - Selenium
+21. Web Scraping - Advanced Selenium
+22. Statistics

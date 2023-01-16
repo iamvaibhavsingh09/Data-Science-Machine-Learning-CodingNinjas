@@ -24,3 +24,5 @@ Phase 3 of Ninja Data Scientist Career Track.
 21. Web Scraping - Advanced Selenium
 22. Statistics
 23. Descriptive Statistics
+24. Introduction to Inferential Statistics
+25. Inferential Statistics : Hypothesis Testing

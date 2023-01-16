@@ -16,3 +16,5 @@ Phase 3 of Ninja Data Scientist Career Track.
 13. Plotting Graphs 
 14. Structured Query Language(SQL) - Basic
 15. Structured Query Language(SQL) - Advance
+16. Indexing And SQLite
+17. Application Programming Interfaces(APIs) - I 

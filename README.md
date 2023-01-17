@@ -31,3 +31,8 @@ Phase 3 of Ninja Data Scientist Career Track.
 28. MultiVariable Regression And Gradient Descent
 29. Feature Scaling
 30. Logistic Regression
+31. Classification Measures
+32. Decision Trees - I
+33. Decision Trees - II
+34. Random Forests
+35. Naive Bayes

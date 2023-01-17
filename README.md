@@ -36,3 +36,9 @@ Phase 3 of Ninja Data Scientist Career Track.
 33. Decision Trees - II
 34. Random Forests
 35. Naive Bayes
+36. K-Nearest Neighbours(K-NN)
+37. Support Vector Machine(SVM)
+38. Principal Component Analysis(PCA) - I
+39. Principal Component Analysis(PCA) - II
+40. Natural Language Processing(NLP)
+41. Neural Networks

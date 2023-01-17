@@ -26,3 +26,8 @@ Phase 3 of Ninja Data Scientist Career Track.
 23. Descriptive Statistics
 24. Introduction to Inferential Statistics
 25. Inferential Statistics : Hypothesis Testing
+26. Introduction to Machine Learning
+27. Linear Regression
+28. MultiVariable Regression And Gradient Descent
+29. Feature Scaling
+30. Logistic Regression

@@ -42,3 +42,16 @@ Phase 3 of Ninja Data Scientist Career Track.
 39. Principal Component Analysis(PCA) - II
 40. Natural Language Processing(NLP)
 41. Neural Networks
+42. Tensor Flow
+43. Keras
+44. Convolutional Neural Network(CNN) - I 
+45. Convolutional Neural Network(CNN) - II
+46. Recurrent Neural Network(RNN)
+47. Long Short-Term Memory(LSTM)
+48. Unsupervised Learning - I 
+49. Unsupervised Learning - II
+50. Introduction to Data Visualization 
+51. Getting Familiar with Tableau
+52. Tableau Visualizations 
+53. Seaborn
+54. Git
